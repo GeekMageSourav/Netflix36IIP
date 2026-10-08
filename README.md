@@ -41,5 +41,3 @@ netflix-clone/
  
 - HTML
 - CSS (flexbox, grid, media queries)
-
-Claude finished the response
